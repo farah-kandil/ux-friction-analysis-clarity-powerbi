@@ -1,5 +1,7 @@
 # UX Friction Analysis Using Microsoft Clarity & Power BI
 
+![Dashboard](dashboard.png)
+
 ## Overview
 This project analyzes user frustration using Microsoft Clarity’s rage-click framework.
 A reconstructed dataset was used to demonstrate how behavioral analytics can be modeled
